@@ -9,6 +9,9 @@ This project implements a checkout system with special pricing rules.
 2. Install dependencies (if needed).
 
 ## Usage
+
+cd Version1
+
 ```python
 from checkout import Checkout
 from pricing_rules import PricingRules
