@@ -28,8 +28,8 @@ checkout_system/
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone .....
-cd checkout-system
+git clone https://github.com/AdriAparicioPons/Cash-Register-Amenitiz.git
+cd cashRegister
 ```
 
 ### 2️⃣ Install Dependencies
